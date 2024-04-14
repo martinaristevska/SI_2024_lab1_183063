@@ -1,0 +1,43 @@
+commit ecfb3d6151d5ee58d423258c0c77434b60df093c
+Author: Martina <martinaristevska@gmail.com>
+Date:   Sun Apr 14 19:32:36 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+    
+        pick d5167ef Call method makeBigStringFrom in main class.
+
+commit e29efb120646a6093e3142405b3fd6b0e871ab32
+Author: Martina <martinaristevska@gmail.com>
+Date:   Sun Apr 14 18:03:27 2024 +0200
+
+    [200~Fix wrong condition in makeBigStringFrom.
+
+commit 3dba68370ace0a591cf5a23abbc98a0fdb57cb5a
+Author: Martina <martinaristevska@gmail.com>
+Date:   Sun Apr 14 19:19:41 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit eb73bed6fa6ea2a96dd90ec290db1d596ee68d57
+Author: Martina <martinaristevska@gmail.com>
+Date:   Sun Apr 14 17:51:40 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 77acfbf3ae45d207764a518a558911a2075025b3
+Author: Martina <martinaristevska@gmail.com>
+Date:   Sun Apr 14 14:11:14 2024 +0200
+
+    Add starter code
+
+commit 171fa7161b6eb85dc87240e3821a5b0dacfdae52
+Author: Martina <martinaristevska@gmail.com>
+Date:   Sun Apr 14 13:20:32 2024 +0200
+
+    Initial commit
+
+commit fbf17242b83a49cb49d2ef791f6a48e36b8c8bff
+Author: martinaristevska <166444136+martinaristevska@users.noreply.github.com>
+Date:   Sun Apr 14 11:07:01 2024 +0200
+
+    Initial commit
